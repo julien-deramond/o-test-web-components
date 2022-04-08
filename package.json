@@ -18,8 +18,8 @@
     "@angular/platform-browser": "~12.2.0",
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
-    "@orwc/component-a": "^0.0.4-alpha.0",
-    "@orwc/component-b": "^0.0.4-alpha.0",
+    "@orwc/component-a": "^0.0.6-alpha.0",
+    "@orwc/component-b": "^0.0.18-alpha.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
