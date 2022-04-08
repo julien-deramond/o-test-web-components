@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import '@orwc/component-a/dist/bundle.esm';
 import '@orwc/component-b/dist/bundle.esm';
+import '@orwc/lit-my-element/dist/bundle.esm';
 
 @Component({
   selector: 'app-root',
